@@ -211,8 +211,9 @@ Auditable Agent Lab is licensed under the
 
 ## Project status
 
-The v0.1 core is pre-release. Its reviewed API surface is intentionally small:
-governance, evidence verification, a CLI skeleton, and synthetic examples.
+Version 0.1.0 is the initial alpha release. Its reviewed API surface is
+intentionally small: governance, evidence verification, a CLI skeleton, and
+synthetic examples.
 
 Current roadmap themes include:
 
@@ -222,5 +223,5 @@ Current roadmap themes include:
 4. a signature-verifier adapter that keeps secrets outside the core;
 5. external clone-and-run feedback before a v0.1.1 release.
 
-Release publication and any program application remain separate maintainer
-decisions.
+Roadmap items are proposals, not implemented capabilities. They do not expand
+the current trust boundary without separately reviewed changes.
